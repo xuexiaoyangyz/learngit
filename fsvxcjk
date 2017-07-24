@@ -1,0 +1,58 @@
+*   [33mcommit dc944a6c6e72b46383d50fefe4b1dfbf982e167b[m
+[31m|[m[32m\[m  Merge: d569638 ab6fb92
+[31m|[m [32m|[m Author: xiaoyang <xuexiaoyang_ar@163.com>
+[31m|[m [32m|[m Date:   Mon Jul 24 17:22:54 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'feature-C'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ab6fb92648fda27e706b6106b3a64eb66df8e27b[m
+[31m|[m [32m|[m Author: xiaoyang <xuexiaoyang_ar@163.com>
+[31m|[m [32m|[m Date:   Mon Jul 24 16:19:38 2017 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Fix typo
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 242c205427d99caf336072995319cfa0035edf33[m
+[31m|[m[31m/[m  Author: xiaoyang <xuexiaoyang_ar@163.com>
+[31m|[m   Date:   Mon Jul 24 16:17:02 2017 +0800
+[31m|[m   
+[31m|[m       Add feature-C
+[31m|[m   
+*   [33mcommit d5696383c42cf6a132e4690eae7062ce3d4f91f1[m
+[33m|[m[34m\[m  Merge: ab0456a 78f6b2e
+[33m|[m [34m|[m Author: xiaoyang <xuexiaoyang_ar@163.com>
+[33m|[m [34m|[m Date:   Mon Jul 24 16:05:55 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Merge branch 'fix-B'
+[33m|[m [34m|[m     
+[33m|[m [34m|[m     a       modified:   readme.md
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit 78f6b2ea3aad744d6ced266d3260f3419b561dd8[m
+[33m|[m [34m|[m Author: xiaoyang <xuexiaoyang_ar@163.com>
+[33m|[m [34m|[m Date:   Mon Jul 24 15:56:03 2017 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     Fix B
+[33m|[m [34m|[m   
+* [34m|[m   [33mcommit ab0456ac942072c1e31bf550eca862b6bc2b54d1[m
+[34m|[m[36m\[m [34m\[m  Merge: 2488712 511b969
+[34m|[m [36m|[m[34m/[m  Author: xiaoyang <xuexiaoyang_ar@163.com>
+[34m|[m[34m/[m[36m|[m   Date:   Mon Jul 24 15:43:04 2017 +0800
+[34m|[m [36m|[m   
+[34m|[m [36m|[m       Merge branch 'feature-A'
+[34m|[m [36m|[m 
+[34m|[m * [33mcommit 511b969c7adf2e454c723bed5ff1800f254882ae[m
+[34m|[m[34m/[m  Author: xiaoyang <xuexiaoyang_ar@163.com>
+[34m|[m   Date:   Mon Jul 24 15:11:24 2017 +0800
+[34m|[m   
+[34m|[m       Add feature-A
+[34m|[m 
+* [33mcommit 248871204d3f19d70be7a84d929190e97e0087c3[m
+[36m|[m Author: xiaoyang <xuexiaoyang_ar@163.com>
+[36m|[m Date:   Mon Jul 24 14:52:20 2017 +0800
+[36m|[m 
+[36m|[m     ssss
+[36m|[m 
+* [33mcommit d252df18fcd2ec53a899bdbebb797f9e67b148ee[m
+  Author: xiaoyang <xuexiaoyang_ar@163.com>
+  Date:   Mon Jul 24 14:30:45 2017 +0800
+  
+      First commit
